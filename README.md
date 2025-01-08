@@ -6,9 +6,7 @@ BSc in Information Technology – Murang'a University
 Professional Certifications in SPSS, STATA, and Data Analysis from KESAP Research Centre.
 💼 Professional Experience:
 
-Company Manager at Tesla
-Former Re-Insurance Analyst at CHUBB Insurance
-Former Leasing Assistant at UACT Associates
+Data Analyst Intern at Kenya Revenue Authority (KRA)
 ⚙️ Tech Stack:
 
 Languages: Python, SQL, R, C++, JavaScript
@@ -32,6 +30,7 @@ Disease Prediction Model for tomatoes using CNN with treatment recommendations
 
 NLP for text classification and chatbot development
 Deep Learning for computer vision tasks
+Association rules for reccommendation system
 📚 Learning Goals:
 
 Advanced AI Applications
