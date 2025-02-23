@@ -100,6 +100,7 @@ Turning Data into Actionable Insights
 📧 Email: [timothymbata450@gmail.com](mailto:timothymbata450@gmail.com)  
 🔗 GitHub: [github.com/Timoh-Mbata](https://github.com/Timoh-Mbata)  
 🔗 LinkedIn: [linkedin.com/in/timothy-mbata](https://linkedin.com/in/timothy-mbata)  
+🔗 X-Twitter: [twitter.com/in/Tim-mbata](https://x.com/Tim_Mbata)
 
 ---
 
