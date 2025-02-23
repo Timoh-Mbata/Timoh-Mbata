@@ -1,5 +1,6 @@
 👋 Hi there! I'm Timothy Mbata, a Data Scientist and Machine Learning Engineer with a strong foundation in data analysis, visualization, and predictive modeling.
 
+
 🎓 Education:
 
 BSc in Information Technology – Murang'a University
