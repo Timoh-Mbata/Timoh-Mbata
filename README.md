@@ -1,12 +1,8 @@
-Here's a refined and professional version of your profile with icons/logos integrated:  
-
----
-
 # 🚀 **Timothy Mbata**  
 ### **Data Scientist | Machine Learning Engineer | AI Enthusiast**  
 Turning Data into Actionable Insights  
 
-📍 **Newcastle, NSW, Australia** | ✉️ [timothymbata450@gmail.com](mailto:timothymbata450@gmail.com)  
+📍 **Nairobi - kenya** | ✉️ [timothymbata450@gmail.com](mailto:timothymbata450@gmail.com)  
 🔗 [GitHub](https://github.com/Timoh-Mbata) | [LinkedIn](https://linkedin.com/in/timothy-mbata)  
 
 ---
