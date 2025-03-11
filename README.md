@@ -1,5 +1,5 @@
 # 🚀 **Timothy Mbata**  
-### **Data Scientist | Machine Learning Engineer | AI Enthusiast**  
+### **Data Analyst | Data Scientist | Machine Learning Engineer | AI Enthusiast**  
 Turning Data into Actionable Insights  
 
 📍 **Nairobi - kenya** | ✉️ [timothymbata450@gmail.com](mailto:timothymbata450@gmail.com)  
@@ -11,7 +11,7 @@ Turning Data into Actionable Insights
 - 🎓 **BSc in Information Technology** – *Murang'a University*  
 - 📊 **Diploma in Data Science** – *GomyCode*  
 - 🏅 **Professional Certifications** – SPSS, STATA, Data Analysis *(KESAP Research Centre)*  
-- ☁️ **AWS Certified** *(In Progress)*  
+- ☁️ **AWS Certified** 
 
 ---
 
