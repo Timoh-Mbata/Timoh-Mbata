@@ -1,5 +1,5 @@
 # 🚀 **Timothy Mbata**  
-### **Data Analyst | Data Scientist | Machine Learning Engineer | Deep Learning | RAG AI Enthusiast **  
+### Data Analyst | Data Scientist | Machine Learning Engineer | Deep Learning | RAG AI Enthusiast   
 Turning Data into Actionable Insights  
 
 📍 **Nairobi - kenya** | ✉️ [timothymbata450@gmail.com](mailto:timothymbata450@gmail.com)  
